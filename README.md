@@ -1,4 +1,4 @@
-# Ejemplo de modelo vista-controlador
+# Ejemplo de vista-controlador
 
 ## Controladores
 
